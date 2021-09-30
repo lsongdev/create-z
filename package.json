@@ -1,0 +1,20 @@
+{
+  "name": "create-z",
+  "version": "0.0.1",
+  "description": "Universal Project Scaffold Tools",
+  "main": "index.js",
+  "bin": "./bin/create-z.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "create",
+    "scaffold"
+  ],
+  "author": "Lsong",
+  "license": "IT",
+  "dependencies": {
+    "@kelpjs/gen": "^0.0.6",
+    "kelp-argv": "^0.0.3"
+  }
+}
